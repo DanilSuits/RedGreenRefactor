@@ -12,5 +12,5 @@ on the current game state.  Which in turn got me to thinking about REST, and hyp
 and the broad idea that there ought to be an API that describes this design protocol
 in detail.
 
-[Start the TDD Protocol](docs/start.md)
+[Start the TDD Protocol](docs/protocol/start.md)
 
